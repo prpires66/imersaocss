@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"h",
+				"h2\tTag"
+			],
+			[
 				"font",
 				"font-size\tproperty"
 			],
@@ -35,18 +39,18 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1260,
+				"buffer_size": 2062,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "css/estilos.css",
 			"settings":
 			{
-				"buffer_size": 876,
+				"buffer_size": 1876,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -82,9 +86,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/alura/imersaocss",
-		"/C/alura/imersaocss/css",
-		"/C/alura/imersaocss/img"
+		"/C/alura/imersaocss"
 	],
 	"file_history":
 	[
@@ -125,7 +127,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -134,15 +136,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1260,
+						"buffer_size": 2062,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								135,
-								135
+								763,
+								763
 							]
 						],
 						"settings":
@@ -150,10 +152,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 432.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -162,15 +164,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 876,
+						"buffer_size": 1876,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								75,
-								75
+								188,
+								188
 							]
 						],
 						"settings":
@@ -183,7 +185,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
